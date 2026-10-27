@@ -1,0 +1,6 @@
+local.conf
+openrc
+*.pem
+*.key
+clouds.yaml
+.env
